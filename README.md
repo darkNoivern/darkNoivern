@@ -28,8 +28,8 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darknoivern&show_icons=true&locale=en&layout=compact" alt="darknoivern" /></p>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darknoivern&show_icons=true&locale=en&layout=compact" alt="darknoivern" /></div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=darknoivern&show_icons=true&locale=en" alt="darknoivern" /></p>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=darknoivern&show_icons=true&locale=en" alt="darknoivern" /></div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darknoivern&" alt="darknoivern" /></p>
+<div><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darknoivern&" alt="darknoivern" /></div>
