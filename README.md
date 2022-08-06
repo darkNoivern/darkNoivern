@@ -27,9 +27,10 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
-
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darknoivern&show_icons=true&locale=en&layout=compact" alt="darknoivern" /></div>
-
-<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=darknoivern&show_icons=true&locale=en" alt="darknoivern" /></div>
-
-<div><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darknoivern&" alt="darknoivern" /></div>
+<div class="row mx-0">
+<div class="col col-12">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darknoivern&show_icons=true&locale=en&layout=compact" alt="darknoivern" />
+</div>
+<div class="col col-12"><img align="left" src="https://github-readme-stats.vercel.app/api?username=darknoivern&show_icons=true&locale=en" alt="darknoivern" /></div>
+<div class="col col-12"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darknoivern&" alt="darknoivern" /></div>
+</div>
