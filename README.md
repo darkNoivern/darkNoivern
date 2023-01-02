@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darknoivern" alt="darknoivern" /></a> </p>
 
-- 🔭 I’m currently working on [lehonk](https://lechonk.vercel.app/)
+- 🔭 I’m currently working on [lechonk](https://lechonk.vercel.app/)
 
 - 🌱 I’m currently learning **Firebase**
 
